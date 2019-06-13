@@ -2,6 +2,7 @@
     package="com.jackie.bundle_business" >
     <application >
         <activity android:name=".BusinessActivity"/>
+        <activity android:name=".BusinessLogin"/>
     </application>
 
 </manifest>
